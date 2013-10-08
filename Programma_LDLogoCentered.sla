@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.3">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="6" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Italian" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray1" RGB="#eeeeec" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray2" RGB="#d3d7cf" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray3" RGB="#babdb6" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray4" RGB="#888a85" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray5" RGB="#555753" Spot="0" Register="0"/>
+        <COLOR NAME="aluminum gray6" RGB="#2e3436" Spot="0" Register="0"/>
+        <COLOR NAME="blue1" RGB="#bfd9ff" Spot="0" Register="0"/>
+        <COLOR NAME="blue2" RGB="#80b3ff" Spot="0" Register="0"/>
+        <COLOR NAME="blue3" RGB="#0066ff" Spot="0" Register="0"/>
+        <COLOR NAME="blue4" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="blue5" RGB="#0000bf" Spot="0" Register="0"/>
+        <COLOR NAME="blue6" RGB="#000080" Spot="0" Register="0"/>
+        <COLOR NAME="brick red1" RGB="#f9ccca" Spot="0" Register="0"/>
+        <COLOR NAME="brick red2" RGB="#f08682" Spot="0" Register="0"/>
+        <COLOR NAME="brick red3" RGB="#e85752" Spot="0" Register="0"/>
+        <COLOR NAME="brick red4" RGB="#e20800" Spot="0" Register="0"/>
+        <COLOR NAME="brick red5" RGB="#bf0303" Spot="0" Register="0"/>
+        <COLOR NAME="brick red6" RGB="#9c0f0f" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange1" RGB="#ffdfbf" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange2" RGB="#ffbf80" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange3" RGB="#ff7e00" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange4" RGB="#bf5e00" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange5" RGB="#803f00" Spot="0" Register="0"/>
+        <COLOR NAME="brown orange6" RGB="#4d2600" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple1" RGB="#e8b7d7" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple2" RGB="#c173b0" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple3" RGB="#b14f9a" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple4" RGB="#a02786" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple5" RGB="#85026c" Spot="0" Register="0"/>
+        <COLOR NAME="burgundy purple6" RGB="#6a0056" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green1" RGB="#99dcc6" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green2" RGB="#00cc88" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green3" RGB="#00b377" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green4" RGB="#009966" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green5" RGB="#00734d" Spot="0" Register="0"/>
+        <COLOR NAME="emerald green6" RGB="#00583f" Spot="0" Register="0"/>
+        <COLOR NAME="forest green1" RGB="#d8e8c2" Spot="0" Register="0"/>
+        <COLOR NAME="forest green2" RGB="#b1d28f" Spot="0" Register="0"/>
+        <COLOR NAME="forest green3" RGB="#77b753" Spot="0" Register="0"/>
+        <COLOR NAME="forest green4" RGB="#37a42c" Spot="0" Register="0"/>
+        <COLOR NAME="forest green5" RGB="#00892c" Spot="0" Register="0"/>
+        <COLOR NAME="forest green6" RGB="#006e29" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet1" RGB="#c3b4da" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet2" RGB="#8e79a5" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet3" RGB="#644a9b" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet4" RGB="#462886" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet5" RGB="#34176e" Spot="0" Register="0"/>
+        <COLOR NAME="grape violet6" RGB="#1d0a55" Spot="0" Register="0"/>
+        <COLOR NAME="gray1" RGB="#eeeeee" Spot="0" Register="0"/>
+        <COLOR NAME="gray2" RGB="#dddddd" Spot="0" Register="0"/>
+        <COLOR NAME="gray3" RGB="#bbbbbb" Spot="0" Register="0"/>
+        <COLOR NAME="gray4" RGB="#888888" Spot="0" Register="0"/>
+        <COLOR NAME="gray5" RGB="#555555" Spot="0" Register="0"/>
+        <COLOR NAME="gray6" RGB="#323232" Spot="0" Register="0"/>
+        <COLOR NAME="green1" RGB="#bfffbf" Spot="0" Register="0"/>
+        <COLOR NAME="green2" RGB="#80ff80" Spot="0" Register="0"/>
+        <COLOR NAME="green3" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="green4" RGB="#00bf00" Spot="0" Register="0"/>
+        <COLOR NAME="green5" RGB="#008c00" Spot="0" Register="0"/>
+        <COLOR NAME="green6" RGB="#004d00" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange1" RGB="#ffd9b0" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange2" RGB="#f2bb88" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange3" RGB="#f29b68" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange4" RGB="#eb7331" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange5" RGB="#cf4913" Spot="0" Register="0"/>
+        <COLOR NAME="hot orange6" RGB="#ac4311" Spot="0" Register="0"/>
+        <COLOR NAME="lime1" RGB="#f8ffbf" Spot="0" Register="0"/>
+        <COLOR NAME="lime2" RGB="#f0ff80" Spot="0" Register="0"/>
+        <COLOR NAME="lime3" RGB="#e5ff00" Spot="0" Register="0"/>
+        <COLOR NAME="lime4" RGB="#bff500" Spot="0" Register="0"/>
+        <COLOR NAME="lime5" RGB="#8bb300" Spot="0" Register="0"/>
+        <COLOR NAME="lime6" RGB="#638000" Spot="0" Register="0"/>
+        <COLOR NAME="pink1" RGB="#ffbff0" Spot="0" Register="0"/>
+        <COLOR NAME="pink2" RGB="#ff80df" Spot="0" Register="0"/>
+        <COLOR NAME="pink3" RGB="#ff00bf" Spot="0" Register="0"/>
+        <COLOR NAME="pink4" RGB="#cc009a" Spot="0" Register="0"/>
+        <COLOR NAME="pink5" RGB="#a3007b" Spot="0" Register="0"/>
+        <COLOR NAME="pink6" RGB="#730055" Spot="0" Register="0"/>
+        <COLOR NAME="purple1" RGB="#dfbfff" Spot="0" Register="0"/>
+        <COLOR NAME="purple2" RGB="#c080ff" Spot="0" Register="0"/>
+        <COLOR NAME="purple3" RGB="#8000ff" Spot="0" Register="0"/>
+        <COLOR NAME="purple4" RGB="#5a00b3" Spot="0" Register="0"/>
+        <COLOR NAME="purple5" RGB="#400080" Spot="0" Register="0"/>
+        <COLOR NAME="purple6" RGB="#2c0059" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink1" RGB="#f9cade" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink2" RGB="#f082b0" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink3" RGB="#e85290" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink4" RGB="#e20071" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink5" RGB="#bf0361" Spot="0" Register="0"/>
+        <COLOR NAME="raspberry pink6" RGB="#9c0f56" Spot="0" Register="0"/>
+        <COLOR NAME="red1" RGB="#ffbfbf" Spot="0" Register="0"/>
+        <COLOR NAME="red2" RGB="#ff8080" Spot="0" Register="0"/>
+        <COLOR NAME="red3" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="red4" RGB="#bf0000" Spot="0" Register="0"/>
+        <COLOR NAME="red5" RGB="#8c0000" Spot="0" Register="0"/>
+        <COLOR NAME="red6" RGB="#590000" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue1" RGB="#a8dde0" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue2" RGB="#00c4cc" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue3" RGB="#00a7b3" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue4" RGB="#007880" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue5" RGB="#006066" Spot="0" Register="0"/>
+        <COLOR NAME="sea blue6" RGB="#00484d" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue1" RGB="#a4c0e4" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue2" RGB="#6193cf" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue3" RGB="#2c72c7" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue4" RGB="#0057ae" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue5" RGB="#00438a" Spot="0" Register="0"/>
+        <COLOR NAME="skyblue6" RGB="#00316e" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow1" RGB="#fff6c8" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow2" RGB="#fff299" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow3" RGB="#ffeb55" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow4" RGB="#ffdd00" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow5" RGB="#f3c300" Spot="0" Register="0"/>
+        <COLOR NAME="sun yellow6" RGB="#e3ad00" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown1" RGB="#debc85" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown2" RGB="#b3925d" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown3" RGB="#8f6b32" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown4" RGB="#75511a" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown5" RGB="#57401e" Spot="0" Register="0"/>
+        <COLOR NAME="wood brown6" RGB="#382509" Spot="0" Register="0"/>
+        <COLOR NAME="yellow1" RGB="#ffffbf" Spot="0" Register="0"/>
+        <COLOR NAME="yellow2" RGB="#ffff99" Spot="0" Register="0"/>
+        <COLOR NAME="yellow3" RGB="#ffff00" Spot="0" Register="0"/>
+        <COLOR NAME="yellow4" RGB="#ffd500" Spot="0" Register="0"/>
+        <COLOR NAME="yellow5" RGB="#ffbf00" Spot="0" Register="0"/>
+        <COLOR NAME="yellow6" RGB="#ffaa00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Italian"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Sfondo" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="232" useAltPrintCommand="229" outputSeparations="255" useSpotColors="244" useColor="241" mirrorH="238" mirrorV="255" useICC="158" doGCR="159" doClip="154" setDevParam="255" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="1" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="Cooper Std Black"/>
+            <Subset Name="Ubuntu Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normale" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normale" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="275.19035022218" YPOS="139.312283464567" WIDTH="244.896149949341" HEIGHT="317" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.160587639311044" LOCALSCY="0.160587639311044" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="immagini/linuxday_fullcolor.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 244.896 0 244.896 0 244.896 0 244.896 0 244.896 317 244.896 317 244.896 317 244.896 317 0 317 0 317 0 317 0 317 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 244.896 0 244.896 0 244.896 0 244.896 0 244.896 317 244.896 317 244.896 317 244.896 317 0 317 0 317 0 317 0 317 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="468.99937007874" YPOS="30" WIDTH="215.452420270143" HEIGHT="98" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Gruppo2" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="1" groupsLastItem="3" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 215.452 0 215.452 0 215.452 0 215.452 0 215.452 98 215.452 98 215.452 98 215.452 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 215.452 0 215.452 0 215.452 0 215.452 0 215.452 98 215.452 98 215.452 98 215.452 98 0 98 0 98 0 98 0 98 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="615.997485013436" YPOS="39" WIDTH="68.4543053354464" HEIGHT="89" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.809797580548569" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0470153195985209" LOCALSCY="0.0470153195985209" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="immagini/Logo Comune.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 68.4543 0 68.4543 0 68.4543 0 68.4543 0 68.4543 89 68.4543 89 68.4543 89 68.4543 89 0 89 0 89 0 89 0 89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 68.4543 0 68.4543 0 68.4543 0 68.4543 0 68.4543 89 68.4543 89 68.4543 89 68.4543 89 0 89 0 89 0 89 0 89 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="146.998114934696" gYpos="9" gWidth="215.452420270143" gHeight="98" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="469.36041600282" YPOS="36.4710743801653" WIDTH="132.105254950881" HEIGHT="83.8512396694215" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.809797580548569" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.15820988616872" LOCALSCY="0.15820988616872" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="immagini/LogoBergamo2019.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 132.105 0 132.105 0 132.105 0 132.105 0 132.105 83.8512 132.105 83.8512 132.105 83.8512 132.105 83.8512 0 83.8512 0 83.8512 0 83.8512 0 83.8512 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 132.105 0 132.105 0 132.105 0 132.105 0 132.105 83.8512 132.105 83.8512 132.105 83.8512 132.105 83.8512 0 83.8512 0 83.8512 0 83.8512 0 83.8512 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.361045924080145" gYpos="6.47107438016529" gWidth="215.452420270143" gHeight="98" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="468.99937007874" YPOS="30" WIDTH="213" HEIGHT="51" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Ubuntu Regular" ISIZE="6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 213 0 213 0 213 0 213 0 213 51 213 51 213 51 213 51 0 51 0 51 0 51 0 51 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 213 0 213 0 213 0 213 0 213 51 213 51 213 51 213 51 0 51 0 51 0 51 0 51 0 0 0 0 " NUMGROUP="1" GROUPS="2 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="215.452420270143" gHeight="98" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Ubuntu Regular" FONTSIZE="6" CH="Con il patrocinio del Comune di Bergamo, Assessorato all'Istruzione, Sport,Tempo libero e Politiche Giovanili"/>
+            <trail ALIGN="1" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="217.63842519685" YPOS="221.647952755906" WIDTH="360" HEIGHT="112.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="50" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.5" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 360 0 360 0 360 0 360 0 360 112.5 360 112.5 360 112.5 360 112.5 0 112.5 0 112.5 0 112.5 0 112.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 360 0 360 0 360 0 360 0 360 112.5 360 112.5 360 112.5 360 112.5 0 112.5 0 112.5 0 112.5 0 112.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="0" doOverprint="1" gXpos="0" gYpos="0" gWidth="360" gHeight="124.297165354331" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="243.63874015748" YPOS="224.946377952756" WIDTH="307.99937007874" HEIGHT="122.99874015748" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="aluminum gray6" TXTSTROKE="aluminum gray3" OpticalMargins="14" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Cooper Std Black" ISIZE="54" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 307.999 0 307.999 0 307.999 0 307.999 0 307.999 122.999 307.999 122.999 307.999 122.999 307.999 122.999 0 122.999 0 122.999 0 122.999 0 122.999 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 307.999 0 307.999 0 307.999 0 307.999 0 307.999 122.999 307.999 122.999 307.999 122.999 307.999 122.999 0 122.999 0 122.999 0 122.999 0 122.999 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="26.0003149606299" gYpos="1.29842519685047" gWidth="360" gHeight="124.297165354331" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Cooper Std Black" FONTSIZE="54" FEATURES="inherit shadowed" FCOLOR="aluminum gray6" SCOLOR="aluminum gray3" CH="Linux Day"/>
+            <para ALIGN="1" LINESPMode="2" OpticalMargins="14"/>
+            <ITEXT FONT="Cooper Std Black" FONTSIZE="54" FEATURES="inherit shadowed" FCOLOR="aluminum gray6" SCOLOR="aluminum gray3" CH="2013"/>
+            <trail ALIGN="1" LINESPMode="2" OpticalMargins="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="115" YPOS="33" WIDTH="269.99937007874" HEIGHT="88.9987401574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.557849938179215" LOCALSCY="0.557849938179215" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="immagini/webcleaned.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 269.999 0 269.999 0 269.999 0 269.999 0 269.999 88.9987 269.999 88.9987 269.999 88.9987 269.999 88.9987 0 88.9987 0 88.9987 0 88.9987 0 88.9987 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 269.999 0 269.999 0 269.999 0 269.999 0 269.999 88.9987 269.999 88.9987 269.999 88.9987 269.999 88.9987 0 88.9987 0 88.9987 0 88.9987 0 88.9987 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="304.63842519685" YPOS="129.06031496063" WIDTH="186" HEIGHT="19" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" OpticalMargins="14" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Ubuntu Italic" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 186 0 186 0 186 0 186 0 186 19 186 19 186 19 186 19 0 19 0 19 0 19 0 19 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 186 0 186 0 186 0 186 0 186 19 186 19 186 19 186 19 0 19 0 19 0 19 0 19 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Ubuntu Italic" CH="Presenta"/>
+            <trail ALIGN="1" LINESPMode="1" OpticalMargins="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
